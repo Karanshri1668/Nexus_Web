@@ -2,7 +2,7 @@
 A responsive website featuring a 3D car model that rotates as you scroll. Built with:  Three.js for 3D rendering  GSAP for smooth animations  ScrollTrigger for scroll-based interactions  Mobile-first responsive design
 # 3D Car Showcase Website
 
-![Website Preview](preview.jpg)
+![Website Preview](preview.png)
 
 A responsive website featuring an interactive 3D car model that rotates as you scroll, built with Three.js and GSAP.
 
