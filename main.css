@@ -63,7 +63,6 @@
         
         /* Hero Section */
         .hero {
-            /* margin-top: 1%; */
             height: 110vh;
             width: 100%;
             position: relative;
@@ -72,14 +71,13 @@
             justify-content: center;
             overflow: hidden;
             padding: 0 5%;
-            /* margin-top: 80px ; Space for fixed nav */
         }
         
         .hero-content {
             position: relative;
             margin-left: -45%;
             margin-top: -5%;
-            /* z-index: 10; */
+            z-index: 10;
             text-align: center;
             max-width: 800px;
             padding: clamp(1.5rem, 5vw, 2rem);
@@ -99,7 +97,6 @@
             z-index: 1;
         }
         
-        /* Ensure canvas fills container */
         #car-container canvas {
             display: block;
             width: 100%;
