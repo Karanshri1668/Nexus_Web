@@ -51,7 +51,7 @@
         gsap.registerPlugin(ScrollTrigger);
         
         loader.load(
-  'assets/models/mustang.glb',
+  'mustang.glb',
   (gltf) => {
     car = gltf.scene;
     
